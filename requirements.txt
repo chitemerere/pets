@@ -1,3 +1,4 @@
-mysqlclient==2.1.1
-SQLAlchemy==1.4.39
-streamlit==1.30.0
+mysqlclient
+SQLAlchemy
+streamlit
+
